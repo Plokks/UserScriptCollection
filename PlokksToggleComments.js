@@ -10,7 +10,6 @@
 // @exclude https://www.youtube.com/embed/*
 // @match http://www.youtube.com/*
 // @match https://www.youtube.com/*
-// @match http://s.ytimg.com/yts/jsbin
 // @grant        none
 // ==/UserScript==
 
